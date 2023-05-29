@@ -54,6 +54,8 @@ console.log(studentsWithIds);
 const studentsWithIds2 = students.map(student => [{id: student.id}, {name: student.name}])
 console.log(studentsWithIds2);
 
+// Exercise:
+
 let students1 = [
     {
         name: 'John',
